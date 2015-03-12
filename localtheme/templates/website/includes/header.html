@@ -1,0 +1,33 @@
+<div class="book-header">
+    <!-- Actions Left -->
+    <a href="#" class="btn pull-left toggle-summary" aria-label="{% i18n "SUMMARY_TOGGLE" %}Table of Contents{% endi18n %}"><i class="fa fa-align-justify"></i></a>
+    <a href="#" class="btn pull-left toggle-search" aria-label="{% i18n "SEARCH_TOGGLE" %}Search{% endi18n %}"><i class="fa fa-search"></i></a>
+    {% if glossary.length > 0 %}
+    <a href="{{ basePath }}/GLOSSARY.html" class="btn pull-left" aria-label="{% i18n "GLOSSARY_OPEN" %}Glossary{% endi18n %}"><i class="fa fa-sort-alpha-asc"></i></a>
+    {% endif %}
+    <div id="font-settings-wrapper" class="dropdown pull-left">
+        <a href="#" class="btn toggle-dropdown" aria-label="{% i18n "FONTSETTINGS_TOGGLE" %}Font Settings{% endi18n %}"><i class="fa fa-font"></i>
+        </a>
+        {% include "./font-settings.html" %}
+    </div>
+
+    <!-- Actions Right -->
+    {% if options.links.sharing.all != false %}
+    <div class="dropdown pull-right">
+        <a href="#" class="btn toggle-dropdown" aria-label="{% i18n "SHARE_TOGGLE" %}Share{% endi18n %}"><i class="fa fa-share-alt"></i>
+        </a>
+        <div class="dropdown-menu font-settings dropdown-left">
+            <div class="dropdown-caret">
+                <span class="caret-outer"></span>
+                <span class="caret-inner"></span>
+            </div>
+        </div>
+    </div>
+    {% endif %}
+
+    <!-- Title -->
+    <h1>
+        <i class="fa fa-circle-o-notch fa-spin"></i>
+        <a href="{{ basePath }}/" >{{ title }}</a>
+    </h1>
+</div>
