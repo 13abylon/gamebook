@@ -3711,3 +3711,34 @@ body {
   font-family: "Open Sans","Clear Sans","Helvetica Neue",Helvetica,Arial,sans-serif;
   font-size: 14px;
 }
+
+.small-float-image {
+  float: left;
+  margin-right: 20px;
+}
+.small-float-image img{
+  height: 200px;
+}
+.small-image img{
+  height: 200px;
+}
+.medium-float-image {
+  float: left;
+  margin-right: 20px;
+}
+.medium-float-image img{
+  height: 300px;
+}
+.medium-image img{
+  height: 300px;
+}
+.large-float-image {
+  float: left;
+  margin-right: 20px;
+}
+.large-float-image img{
+  height: 400px;
+}
+.large-image img{
+  height: 400px;
+}
