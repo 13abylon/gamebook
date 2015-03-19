@@ -1,0 +1,3 @@
+- Fotos zu den einzelnen Einheiten
+- Fotos vom gesamt Spielbrett vorher und nachher
+- Hausregeln? -> Auch Ideen möglich
