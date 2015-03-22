@@ -1,2 +1,29 @@
+Das hier ist ein Buch für verschiedene Spiele. Dieses Buch ist noch in Entwicklung.
+
+Das gamebook ist mit Hilfe vom [gitbook](https://github.com/GitbookIO/gitbook) erstellt wurden.
+
+Jeder kann sich am gamebook beteiligen. Dafür muss man einfach ein pull request mit
+Änderungen oder Erweiterungen machen.
+
+Die Strutur des Buches ist wie folgt:
+
+- Jedes Spiel hat seinen eigenen Ordner mit `.md` Dateien - eine Detei für jedes Kapitel
+- Jedes Spiel kann eigene Unterordner für eine bessere Struktur haben
+- Ordner und Dateien sind immer in kleinbuchstaben geschrieben mit Unterstrich getrennt
+- Bilder werden im Ordner assets gespeichert
+
+---------------------------------------------------------------------------------------
+
 This will be a book with tips for games and stuff
 
+The gamebook is generated with the help of [gitbook](https://github.com/GitbookIO/gitbook).
+
+You can easily contribute to the gamebook.
+You simply need to make a pull request with your changes, new games or additions to existing chapters.
+
+Some details about the structure of the gamebook:
+
+- each game has its own folder with `.md` files - one for each chapter
+- each game folder can have its own folder for a better structure
+- folders and files are written in lowercase and words separated with underscore
+- images are saved in the folder assets with the folder name of the game
