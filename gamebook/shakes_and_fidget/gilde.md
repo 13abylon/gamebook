@@ -32,16 +32,17 @@ Man kann gegen Gold eine andere Gilde angreifen oder sich zur Verteidigung melde
 ####Farbcodierung
 Befindet sich die Gilde nicht im Krieg gilt folgende Farbcodierung:
 
-- _Grau-transparent_: Eingeladenes Mitglied
-- _Ocker_: - Aktives Mitglied, nicht online
-- _Gold_: - Aktives Mitglied, aktuell online
+- **Grau-transparent**: Eingeladenes Mitglied
+- **Ocker**: - Aktives Mitglied, nicht online
+- **Gold**: Aktives Mitglied, aktuell online
 
 Befindet sich die Gilde im Krieg gilt folgende Farbcodierung:
-- _Dunkelrot-transparent_: - Eingeladenes Mitglied
-- _Dunkelrot_: - Aktives Mitglied, nicht online und nicht zum Kampf gemeldet
-- _Hellrot_: - Aktives Mitglied, online und nicht zum Kampf gemeldet
-- _Ocker_: - Aktives Mitglied, offline und zum Kampf gemeldet
-- _Gold_: - Aktives Mitglied, online und zum Kampf gemeldet
+
+- **Dunkelrot-transparent**: Eingeladenes Mitglied
+- **Dunkelrot**: Aktives Mitglied, nicht online und nicht zum Kampf gemeldet
+- **Hellrot**: Aktives Mitglied, online und nicht zum Kampf gemeldet
+- **Ocker**: Aktives Mitglied, offline und zum Kampf gemeldet
+- **Gold**: Aktives Mitglied, online und zum Kampf gemeldet
 
 ##Allgemeines
 Man kann mit `/Gold BETRAG` und `/Pilze BETRAG` auf einmal Gold und Pilze spenden, indem man für _BETRAG_ einen Wert einsetzt. 
