@@ -1,0 +1,11 @@
+#Summary
+*  [Shakes and Fidget](shakes_and_fidget/uebersicht.md)
+  *  [Level spezifisch](shakes_and_fidget/level.md)
+  *  [Dungeons](shakes_and_fidget/dungeons.md)
+  *  [Gilde](shakes_and_fidget/gilde.md)
+  *  [Sonstiges](shakes_and_fidget/sonstiges.md)
+*  [Doppelkopf](doppelkopf/rules.md)
+  * [Solo](doppelkopf/solo.md)
+*  [Axis and Allies](aaa/README.md)
+  *  [1942 Einheiten](aaa/1942/units.md)
+  *  [1942 Regeln](aaa/1942/rules.md)
