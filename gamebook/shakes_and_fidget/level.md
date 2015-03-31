@@ -11,8 +11,8 @@ Ab Stufe 50 kann man Scherben-Teile bei Abenteuern finden. Sobald man alle 13 Te
 Ab Level 66 kann man im Zauberladen das unauffällige Buch anklicken. Dadurch gelangt man zur Hexe, bei der man seine Gegenstände gegen Gold verzaubern.
 
 <div class="large-image">
-  ![Buch](../assets/shakes_and_fidget/ordinary_book.png)
-  ![Hexe](../assets/shakes_and_fidget/witch.png)
+  <img src="../assets/shakes_and_fidget/ordinary_book.png"></img>
+  <img src="../assets/shakes_and_fidget/witch.png"></img>
 </div>
 
 Mögliche Verbesserungen:
@@ -37,7 +37,7 @@ Ab Level 99 kann man das Gilden-Portal betreten. Mehr zu lesen unter dem [Gilden
 Den Toilettenschlüssel findet man zufällig in einer Quest sobald man Level 100 erreicht hat. Sobald man diesen hat kann man die Toilette in der Taverne betreten.
 
 <div class="medium-float-image">
-  ![Toillete](../assets/shakes_and_fidget/wc.png)
+  <img src="../assets/shakes_and_fidget/wc.png"></img>
 </div>
 
 In die Toilette kann man Gegenstände hineinwerfen und veränderte Gegenstände kommen heraus. Desweiteren füllt sich der _Mana Tank_ um eine bestimmte Menge.

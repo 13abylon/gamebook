@@ -6,7 +6,6 @@ In den folgenden Kapiteln gibt es Tipps und Tricks zu Shakes and Fidget. Auf der
 
 | Event | Datum |
 |-------|-------|
-| Episches Wochenende | 28/29 März 2015 |
 | Gold Wochenende | 4/5 April 2015 |
 | Pilz Wochenende | 11/12 April 2015 |
 | Erfahrung Wochenende | 18/19 April 2015 |

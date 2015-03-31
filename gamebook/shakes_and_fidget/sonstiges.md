@@ -6,7 +6,7 @@ Man kann Tränke stapeln, indem man Tränke einfach hintereinander auf den Chara
 Ab Stufe 10 ist das Sammelalbum beim Zauberladen zu kaufen. Dieses füllt sich mit Bildern von Gegenständen die man findet und Gegnern die man tötet.
 
 <div class="large-image">
-  ![Sammelbuch](../assets/shakes_and_fidget/sammelbuch.png)
+  <img src="../assets/shakes_and_fidget/sammelbuch.png"></img>
 </div>
 
 Die Prozentanzeige in der oberen Linken Ecke gibt die zusätzliche Erfahrung an die man bei Abenteuern bekommt.

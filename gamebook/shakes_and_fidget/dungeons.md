@@ -8,7 +8,7 @@ Sobald man eine Ebene geschafft hat, gibt es eine 50% Chance einen Gegenstand zu
 Sobald man alle 9 Dungeons geschafft hat wird eine neue Dungeonübersicht frei geschaltet.
 
 <div class="large-image">
-  ![Buch](../assets/shakes_and_fidget/extra_dungeon.png)
+  <img src="../assets/shakes_and_fidget/extra_dungeon.png"></img>
 </div>
 
 ####Dungeons
