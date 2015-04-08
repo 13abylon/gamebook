@@ -1,10 +1,9 @@
 {
-  "theme": "./localtheme",
   "gitbook": ">=2.0.0",
   "language": "de",
   "title": "gamebook",
   "styles": {
-    "website": "styles/website.css"
+    "website": "styles/gamebook.css"
    }
 }
 

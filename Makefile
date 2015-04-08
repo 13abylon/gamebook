@@ -7,6 +7,7 @@ book:
 	cd gamebook/ && gitbook build ./ ./../_books
 	cd _books && cp -r * ../gh-pages/
 	rm -rf _books/
+	cp gamebook/assets/favicon.ico gh-pages/gitbook/images/favicon.ico
 
 commit:
 	cd gh-pages/ && git add -A
