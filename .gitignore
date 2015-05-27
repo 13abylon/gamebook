@@ -1,3 +1,4 @@
 gamebook/_book
 .DS_Store
 gh-pages
+gamebook/node_modules/
