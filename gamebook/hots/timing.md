@@ -33,7 +33,7 @@ Es erscheinen zwei Truhen südlich und nördlich vom Schiff die jeweils fünf Du
 
 ### Cursed Hollow (Verfluchtes Tal)
 
-**Tributes (Tribute)
+**Tributes (Tribute)**
 - Der Zeitpunkt in dem das Tribut erscheint ist zufällig in einem bestimmten Interval
 - Falls vor dem Tribut der Fluch _nicht_ aktiv war: <div class="time">0:50</div> bis <div class="time">1:40</div>
 - Falls vor dem Tribut der Fluch aktiv war: <div class="time">3:00</div> bis <div class="time">4:00</div>
@@ -41,7 +41,7 @@ Es erscheinen zwei Truhen südlich und nördlich vom Schiff die jeweils fünf Du
 ### Dragon Shire (Drachengärten)
 
 **Shrines (Schreine)**:
-- Die Schreine öffnen das erste mal:<div class="time">1:15</div>
+- Die Schreine öffnen das erste mal: <div class="time">1:15</div>
 - Die Schreine öffnen erneut: <div class="time">2:00</div> nachdem der Drache getötet wurde
 
 ### Garden of Terror (Garten der Ängste)
