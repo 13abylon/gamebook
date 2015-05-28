@@ -28,3 +28,8 @@
 .large-image img{
   height: 400px;
 }
+
+.time {
+  color: #008800;
+  display: inline;
+}
