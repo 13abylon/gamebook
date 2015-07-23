@@ -1,16 +1,18 @@
 .small-float-image {
   float: left;
-  margin-right: 20px;
+  margin-right: 15px;
+  margin-bottom: 10px;
 }
 .small-float-image img{
-  height: 200px;
+  height: 150px;
 }
 .small-image img{
-  height: 200px;
+  height: 150px;
 }
 .medium-float-image {
   float: left;
-  margin-right: 20px;
+  margin-right: 15px;
+  margin-bottom: 10px;
 }
 .medium-float-image img{
   height: 300px;
@@ -20,7 +22,8 @@
 }
 .large-float-image {
   float: left;
-  margin-right: 20px;
+  margin-right: 15px;
+  margin-bottom: 10px;
 }
 .large-float-image img{
   height: 400px;
@@ -32,4 +35,8 @@
 .time {
   color: #0000FF;
   display: inline;
+}
+
+.border-image {
+  border: 1px solid black;
 }
