@@ -30,7 +30,7 @@ Level des Großen Alten (Höchste Zahl der Verderbensmarke)
 
 \- 1 für jede unbezahlte / ausgelassene Bankanleihe
 
-\- 1 für jedes ausgespielte Ältere Zeichen
+\- 1 für jedes ausgespielte Ältere Zeichen (Karte)
 
 \+ 1 für jede nicht abgegebene Tortrophäe
 
