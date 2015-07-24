@@ -2,7 +2,7 @@
   "gitbook": ">=2.0.0",
   "language": "de",
   "title": "gamebook",
-  "plugins": ["expandable-chapters"],
+  "plugins": ["toggle-chapters"],
   "styles": {
     "website": "styles/gamebook.css"
    }
