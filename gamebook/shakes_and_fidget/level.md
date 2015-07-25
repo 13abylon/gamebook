@@ -10,8 +10,10 @@ Ab Stufe 50 kann man Scherben-Teile bei Abenteuern finden. Sobald man alle 13 Te
 ####Hexe
 Ab Level 66 kann man im Zauberladen das unauffällige Buch anklicken. Dadurch gelangt man zur Hexe, bei der man seine Gegenstände gegen Gold verzaubern.
 
-<div class="large-image">
+<div class="small-float-image">
   <img src="../assets/shakes_and_fidget/ordinary_book.png"></img>
+</div>
+<div class="small-float-image">
   <img src="../assets/shakes_and_fidget/witch.png"></img>
 </div>
 
