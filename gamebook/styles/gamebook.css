@@ -4,32 +4,39 @@
   margin-bottom: 10px;
 }
 .small-float-image img{
-  height: 150px;
+  width: 350px;
 }
+
 .small-image img{
-  height: 150px;
+  width: 350px;
 }
+
 .medium-float-image {
   float: left;
   margin-right: 15px;
   margin-bottom: 10px;
 }
+
 .medium-float-image img{
-  height: 300px;
+  width: 550px;
 }
+
 .medium-image img{
-  height: 300px;
+  width: 550px;
 }
+
 .large-float-image {
   float: left;
   margin-right: 15px;
   margin-bottom: 10px;
 }
+
 .large-float-image img{
-  height: 400px;
+  width: 750px;
 }
+
 .large-image img{
-  height: 400px;
+  width: 750px;
 }
 
 .time {
@@ -39,4 +46,9 @@
 
 .border-image {
   border: 1px solid black;
+}
+
+.damage {
+  color: #ff0000;
+  display: inline;
 }
