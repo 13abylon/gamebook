@@ -4,7 +4,6 @@ COMMITDATE = `date +'%d.%m.%Y %H:%M %Z'`
 
 book: #summary-check
 	cd gh-pages/ && find . -not -name '.git' -depth 1 | xargs rm -rf
-	cd gamebook/ && gitbook install ./ ./../_books
 	cd gamebook/ && gitbook build ./ ./../_books
 	cd _books && cp -r * ../gh-pages/
 	rm -rf _books/
