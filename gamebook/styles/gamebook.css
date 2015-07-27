@@ -1,6 +1,6 @@
 .small-float-image {
   float: left;
-  margin-right: 15px;
+  margin-right: 10px;
   margin-bottom: 10px;
 }
 .small-float-image img{
@@ -13,7 +13,7 @@
 
 .medium-float-image {
   float: left;
-  margin-right: 15px;
+  margin-right: 10px;
   margin-bottom: 10px;
 }
 
@@ -27,7 +27,7 @@
 
 .large-float-image {
   float: left;
-  margin-right: 15px;
+  margin-right: 10px;
   margin-bottom: 10px;
 }
 
