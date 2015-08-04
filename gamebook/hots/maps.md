@@ -17,7 +17,7 @@ Da das Spiel von vielen in der Originalsprache gespielt wird, werden hier sowohl
 
 **Letztes Update**:
 - _Patch_: 12.1.36536
-- _Datum_: 27.07.2015
+- _Datum_: 04.08.2015
 
 ## Symbole
 
@@ -38,7 +38,6 @@ Da das Spiel von vielen in der Originalsprache gespielt wird, werden hier sowohl
 **Immortals (Unsterbliche)**:
 - Die ersten Immortals erscheinen nach <div class="time">1:45</div>
 - Respawn time: <div class="time">1:40</div> bis <div class="time">1:50</div>
-- Immortals nehmen <div class="damage">keinen</div> Schaden von Fähigkeiten sondern nur von Auto-Attack
 - Immortals fügen sich gegenseitig <div class="damage">keinen</div> Schaden zu
 - Wenn einer der beiden nur noch die Hälfte des Lebens hat, werden die Positionen der beiden Immortals verändert
 
@@ -218,4 +217,8 @@ Jede gegnerische Spinne hinterlässt einen Edelstein den man aufsammeln kann.
 **27.07.2015**
 - Karten hinzugefügt
 - Mehr Mapdetails hinzugefügt
-- Battlefield of Eternity hinzugefügt
+- _Battlefield of Eternity_ hinzugefügt
+
+**04.08.2015**
+- Falsche Information über _Battlefield of Eternity_ herausgenommen
+
