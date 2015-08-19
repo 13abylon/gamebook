@@ -40,6 +40,7 @@ Da das Spiel von vielen in der Originalsprache gespielt wird, werden hier sowohl
 - Respawn time: <div class="time">1:40</div> bis <div class="time">1:50</div>
 - Immortals fügen sich gegenseitig <div class="damage">keinen</div> Schaden zu
 - Wenn einer der beiden nur noch die Hälfte des Lebens hat, werden die Positionen der beiden Immortals verändert
+- Wenn die beiden das erste mal im Spiel Positionen tauschen, so ist der Himmlische Immortal immer rechts und vice versa
 
 **Camps**:
 - Die Camps auf dieser Map sind unterschiedlich vom Design und Gameplay zu den anderen Maps
@@ -143,6 +144,7 @@ Tribute kommen immer in Sets von Drei:
 
 **Tipp**:
 - In der Anzeige wo die Samen gezählt werden, wird ein Samen angezeigt. Ist dieser geöffnet, gibt es diese Nacht noch genug Samen zu sammeln, ansonsten ist das Bild verschlossen
+
 ### Haunted Mines (Geisterminen)
 
 <div class="large-image">
@@ -206,11 +208,13 @@ Jede gegnerische Spinne hinterlässt einen Edelstein den man aufsammeln kann.
 - Edelsteine bleiben <div class="time">8 Sekunden</div> auf dem Boden bevor sie verschwinden
 - Stirbt ein verbündeter Held so kann man _alle_ seine Edelsteine einsammeln
 - Stirbt ein gegnerischer Held hinterlässt er drei Edelsteine
+- Die maximale Anzahl an Edelsteinen beträgt <div class="damage">100</div>
 
 **Webweavers / Netzweber**:
 - Für die Abgabe von insgesamt 50 Edelsteinen (+5 für jede weitere Runde) werden drei Webweaver beschworen
 - Diese erscheinen auf jeder Lane an der ersten Stelle mit gegnerischem Kontakt
 - Webweaver verlieren jede Sekunde leben
+- Ab Minute <div class="time">15:00</time> sind Schaden und Leben der Webweavers um <div class="damage">50%</div> erhöht
 
 ## Changelog
 
@@ -222,3 +226,6 @@ Jede gegnerische Spinne hinterlässt einen Edelstein den man aufsammeln kann.
 **04.08.2015**
 - Falsche Information über _Battlefield of Eternity_ herausgenommen
 
+**19.08.2015**
+- _Tomb of the Spiderqueen_ zusätliche Informationen hinzugefügt
+- _Battlefield of Eternity_ zusätliche Informationen hinzugefügt
