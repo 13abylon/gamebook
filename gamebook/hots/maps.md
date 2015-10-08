@@ -16,8 +16,8 @@ Da das Spiel von vielen in der Originalsprache gespielt wird, werden hier sowohl
 ## Map-Übersicht
 
 **Letztes Update**:
-- _Patch_: 12.1.36536
-- _Datum_: 04.08.2015
+- _Patch_: 14.0.0
+- _Datum_: 07.10.2015
 
 ## Symbole
 
@@ -186,8 +186,6 @@ Tribute kommen immer in Sets von Drei:
 - Zweite Aktivierung: Tempel **C**
 - Dritte Aktivierung: Tempel **C** und entweder **A** oder **B**
 - Nach der dritten Aktivierung ist die Anzahl der Tempel so wie der Standort zufällig
-- **Vor** der _sechsten_ Aktivierung kann es keine drei Tempel gleichzeitig geben
-- Die _sechste_ Aktivierung hat alle drei Tempel gleichzeitig
 
 **Zusätzliche Tempel-Informationen**:
 - Jeder Tempel hat _45 Schüsse_. Die letzten fünf werden in einer Sequenz geschossen, so dass man nicht darauf stehen bleiben muss
@@ -229,3 +227,6 @@ Jede gegnerische Spinne hinterlässt einen Edelstein den man aufsammeln kann.
 **19.08.2015**
 - _Tomb of the Spiderqueen_ zusätliche Informationen hinzugefügt
 - _Battlefield of Eternity_ zusätliche Informationen hinzugefügt
+
+**07.10.2015**
+- _Sky Temple_ Informationen herausgenommen: Es können keine drei Tempel mehr gleichzeitig aktiv sein
