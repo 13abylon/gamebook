@@ -5,7 +5,7 @@ Da das Spiel von vielen in der Originalsprache gespielt wird, werden hier sowohl
 - _Initial spawn time_: Die Zeit in der das Ereignis das erste mal stattfindet
 - _Respawn time_: Die Zeit in der das Ereignis erneut auftritt
 
-### Mercenaries Camp / Söldner Camp
+## Mercenaries Camp / Söldner Camp
 
 | Symbol |Camp | Initial spawn time | Respawn time|
 |--------|-----|-------------------|-------------|
@@ -16,8 +16,8 @@ Da das Spiel von vielen in der Originalsprache gespielt wird, werden hier sowohl
 ## Map-Übersicht
 
 **Letztes Update**:
-- _Patch_: 14.0.0
-- _Datum_: 07.10.2015
+- _Patch_: 15.1.0
+- _Datum_: 01.12.2015
 
 ## Symbole
 
@@ -27,7 +27,7 @@ Da das Spiel von vielen in der Originalsprache gespielt wird, werden hier sowohl
 |<img src="../assets/hots/symbols/bruisercamp.png"></img>|Bruisder Camp||<img src="../assets/hots/symbols/base.png"></img>|Base / Watchtower|
 |<img src="../assets/hots/symbols/bosscamp.png"></img>|Boss Camp||<img src="../assets/hots/symbols/event.png"></img>|Event (Ereignis)|
 
-### Battlefield of Eternity (Schlachtfeld der Unendlichkeit)
+## Battlefield of Eternity (Schlachtfeld der Unendlichkeit)
 
 <div class="large-image">
   <a href="http://us.battle.net/heroes/en/battlegrounds/battlefield-of-eternity/" target="_blank">
@@ -43,11 +43,11 @@ Da das Spiel von vielen in der Originalsprache gespielt wird, werden hier sowohl
 - Wenn die beiden das erste mal im Spiel Positionen tauschen, so ist der Himmlische Immortal immer rechts und vice versa
 
 **Camps**:
-- Die Camps auf dieser Map sind unterschiedlich vom Design und Gameplay zu den anderen Maps
+- Die Camps auf dieser Map sind unterschiedlich vom Design und Gameplay zu den meisten anderen Maps
 - <img src="../assets/hots/symbols/siegecamp.png"</img> Siegecamps haben nun drei statt zwei Weitkämpfern, die allerdings dafür keinen Flächenschaden mehr machen
 - <img src="../assets/hots/symbols/bruisercamp.png"</img> Bruisercamps haben einen Schamanen der Hunde wiederbelebt, wenn diese umgebracht werden. Daher immer die Schamanen zuerst töten
 
-### Blackheart's Bay (Schwarzherzbucht)
+## Blackheart's Bay (Schwarzherzbucht)
 
 <div class="large-image">
   <a href="http://us.battle.net/heroes/en/battlegrounds/blackhearts-bay/" target="_blank">
@@ -72,7 +72,7 @@ Es erscheinen zwei Truhen südlich und nördlich vom Schiff die jeweils fünf Du
 - Der erste Angriff kostet _10_ Dublonen, alle darauffolgenden immer _2_ mehr
 - Es werden 12 Schüsse abgegeben
 
-### Cursed Hollow (Verfluchtes Tal)
+## Cursed Hollow (Verfluchtes Tal)
 
 <div class="large-image">
   <a href="http://us.battle.net/heroes/en/battlegrounds/cursed-hollow/" target="_blank">
@@ -106,7 +106,7 @@ Tribute kommen immer in Sets von Drei:
 **Wichtig**: Für das zweite Tribut im Spiel gilt diese Regel _nicht_
 
 
-### Dragon Shire (Drachengärten)
+## Dragon Shire (Drachengärten)
 
 <div class="large-image">
   <a href="http://us.battle.net/heroes/en/battlegrounds/dragon-shire/" target="_blank">
@@ -129,7 +129,7 @@ Tribute kommen immer in Sets von Drei:
 **Tipps**:
 - Während des ersten Drachen sollte man weiterhin alle drei Lanes besetzen für die zusätzliche Erfahrung
 
-### Garden of Terror (Garten der Ängste)
+## Garden of Terror (Garten der Ängste)
 
 <div class="large-image">
   <a href="http://us.battle.net/heroes/en/battlegrounds/garden-of-terror/" target="_blank">
@@ -145,7 +145,7 @@ Tribute kommen immer in Sets von Drei:
 **Tipp**:
 - In der Anzeige wo die Samen gezählt werden, wird ein Samen angezeigt. Ist dieser geöffnet, gibt es diese Nacht noch genug Samen zu sammeln, ansonsten ist das Bild verschlossen
 
-### Haunted Mines (Geisterminen)
+## Haunted Mines (Geisterminen)
 
 <div class="large-image">
   <a href="http://us.battle.net/heroes/en/battlegrounds/haunted-mines/" target="_blank">
@@ -168,7 +168,25 @@ Tribute kommen immer in Sets von Drei:
 **Tipps**:
 - Wenn der gegnerische Golem bei der erste Base ist, sollte man sein eigenes Siege Camp machen, da die Söldner dann bei der Verteidigung gegen den Golem helfen
 
-### Sky Temple (Tempel des Himmels)
+## Infernal Shrines (Höllenschreine)
+
+<div class="large-image">
+  <a href="http://us.battle.net/heroes/en/battlegrounds/infernal_shrines/" target="_blank">
+    <img src="../assets/hots/battlegrounds/infernal_shrines.png"></img>
+  </a>
+</div>
+
+**Shrines (Schreine)**:
+- Der erste Schrein erscheint nach <div class="time">1:45</div>
+- Respawn time: <div class="time">1:45</div> nachdem der Punisher getötet wurde
+- Die Schreine erscheinen zufällig
+
+**Camps**:
+- Die Camps auf dieser Map sind unterschiedlich vom Design und Gameplay zu den meisten anderen Maps
+- <img src="../assets/hots/symbols/siegecamp.png"</img> Siegecamps haben nun drei statt zwei Weitkämpfern, die allerdings dafür keinen Flächenschaden mehr machen
+- <img src="../assets/hots/symbols/bruisercamp.png"</img> Bruisercamps haben einen Schamanen der Hunde wiederbelebt, wenn diese umgebracht werden. Daher immer die Schamanen zuerst töten
+
+## Sky Temple (Tempel des Himmels)
 
 <div class="large-image">
   <a href="http://us.battle.net/heroes/en/battlegrounds/sky-temple/" target="_blank">
@@ -192,7 +210,7 @@ Tribute kommen immer in Sets von Drei:
 - **Schaden**: Jeder Schuss verursacht <div class="damage">400</div> Schaden, für jede Aktivierungssequenz gibt es <div class="damage">60</div> Schaden mehr
 - **Gegner**: Beim Aktivieren erscheint sofort ein großer Bewacher, nach _10 Schüssen_ zwei Nahkämpfer und nach _25 Schüssen_ zwei Weitkämpfer
 
-### Tomb of the Spider Queen (Grabkammer der Spinnenkönigin)
+## Tomb of the Spider Queen (Grabkammer der Spinnenkönigin)
 
 <div class="large-image">
   <a href="http://us.battle.net/heroes/en/battlegrounds/tomb-of-the-spider-queen/" target="_blank">
@@ -230,3 +248,6 @@ Jede gegnerische Spinne hinterlässt einen Edelstein den man aufsammeln kann.
 
 **07.10.2015**
 - _Sky Temple_ Informationen herausgenommen: Es können keine drei Tempel mehr gleichzeitig aktiv sein
+
+**01.12.2015**
+- _Infernal Shrines_ hinzugefügt
