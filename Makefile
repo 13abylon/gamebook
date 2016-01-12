@@ -8,6 +8,7 @@ book: #summary-check
 	cd _books && cp -r * ../gh-pages/
 	rm -rf _books/
 	cp gamebook/assets/favicon.ico gh-pages/gitbook/images/favicon.ico
+	make copy-pdf
 
 commit:
 	cd gh-pages/ && git add -A
@@ -25,3 +26,6 @@ summary-check:
 		comm -13 /tmp/md_files_gamebook.txt /tmp/md_files_gamebook_in_summary.txt; \
 		exit 1; \
 	fi
+
+copy-pdf:
+	cp gamebook/assets/arkham_horror/overview.pdf gh-pages/assets/arkham_horror/
