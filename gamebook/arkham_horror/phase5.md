@@ -19,7 +19,7 @@ Die Monster werden gleichmäßig bei den Toren verteilt, wobei nirgendwo mehr Mo
 ####Standort hat kein Tor und ist nicht versiegelt
 1. Die Verderbensleiste schreitet voran. Erscheint dadurch der Große Alte wird der Rest der Mythoskarte nicht mehr abgehandelt
 2. Ein Tor erscheint. Alle _Hinweis_-Marker werden von dem Ort entfernt
-3. Ein Monster erscheint - zwei Monster bei mehr als fünf Spielern
+3. Ein Monster erscheint - zwei Monster ab fünf Spielern
 
 Steht ein Ermittler an dem Ort, so wird er Augenblicklich in die Andere Welt gezogen und ist [aufgehalten](phase2.md).
 
@@ -33,14 +33,12 @@ Hierbei ist folgendes zu beachten:
 - Manche Monster bewegen sich schneller oder gar nicht, abhängig von der Farbe des Monsters, siehe dazu die [Monsterbeschreibung](monster.md)
 - Monster bleiben stehen sobald ein Ermittler im Weg ist
 - Monster bewegen sich nicht, falls Ermittler auf dem gleichen Feld sind
-- Fliegende Monster greifen den Spieler mit dem niedrigsten Schleichwert an. Bei Gleichstand entscheidet Spieler 1
+- Fliegende Monster greifen den Spieler mit dem niedrigsten Schleichwert an. Bei Gleichstand entscheidet der erste Spieler
 
 ##Aktivieren der Mythosfähigkeit
-Die Texte werden vom ersten Spieler abgehandelt, abhängig von der beschriebenen Art:
+Die Texte werden vom ersten Spieler abgehandelt:
 - **Schlagzeile**: Der Text wird ausgeführt und die Mythoskarte unter den Mythoskartenstapel gelegt
 - **Umgebung**: Die Karte hat einen anhaltenden Effekt und bleibt im Spiel. Diese wird erst durch eine neue Umgebungskarte ersetzt
 - **Gerücht**: Ein besonderes Ereignis geschieht in Arkham. Bis die Ermittler erfolgreich sind oder versagen bleibt die Karte im Spiel. Eine neu gezogene Gerüchtekarte wird abgehandelt **ohne** das Ereignis und danach unter den Stapel gelegt
 - **Anderer Effekt**: Der Text wird ausgeführt und hält solange an, bis die Karte aus dem Spiel genommen wird
-
-
 

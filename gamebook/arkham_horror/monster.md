@@ -1,6 +1,6 @@
 #Monster und Kampf
 ##Besondere Monsterbewegungen (Farbcodierung)
-- **Normal (Schwarzer Rand)**: Monster bewegen sich normal um 1 Feld
+- **Normal (Schwarzer Rand)**: Monster bewegen sich normal um ein Feld
 - **Stationär (Gelber Rand)**: Diese Monster bewegen sich nicht und bleiben stets an der gleichen Stelle
 - **Schnell (Roter Rand)**: Diese Monster bewegen sich zweimal
 - **Einzigartig (Grüner Rand)**: Einzigartige Monster haben besondere Bewegungen die auf der Karte abgebildet sind

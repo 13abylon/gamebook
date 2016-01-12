@@ -1,17 +1,17 @@
 #Spielende
 ##Sieg
 Es gibt mehrere Möglichkeiten das Spiel zu gewinnen:
-- Eie bestimmte Anzahl an Toren [verschliessen](spielkarte.md)
-- Eine bestimmte Anzahl an Toren [versiegeln](spielkarte.md)
+- Eie bestimmte Anzahl an Toren verschliessen
+- Eine bestimmte Anzahl an Toren versiegeln
 - Den Großen Alten bannen
 
 ####Tore verschliessen
 Zwei Bedingungen müssen erfüllt sein:
 1. Ein Ermittler schließt das letzte Tor und kein anderes darf geöffnet sein
-2. Die Spieler brauchen mindestens soviele Tortrophäen wie die Anzahl der Spieler ist
+2. Die Spieler brauchen mindestens soviele Tortrophäen wie Spieler im Spiel sind
 
 ####Tore versiegeln
-Sind auf dem Spielfeld sechs oder mehr ältere Zeichen haben die Ermittler sofort gewonnen
+Sind auf dem Spielfeld sechs oder mehr ältere Zeichen haben die Ermittler sofort gewonnen.
 
 ####Den Großen Alten bannen
 Sobald der [Große Alte erscheint](ermittler.md) müssen die Spielen diesen bannen um zu gewinnen.

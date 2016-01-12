@@ -6,6 +6,9 @@ Bevor der Startspieler beginnt wird die erste Mythos Karte gezogen und ausgefüh
 
 **Wichtig**: Dadurch wird der erste _Verderbens_-Marker auf die Verdebensleiste des _Großen Alten_ gesetzt.
 
+##Zusammenfassung
+- Eine schnelle Übersicht gibt es mit dieser [einseitigen PDF](../assets/arkham_horror/overview.pdf)
+
 ##Phasen und Spielende
 
 - Phase 1: [Unterhalt](phase1.md)

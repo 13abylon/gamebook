@@ -33,7 +33,7 @@ Sobald ein Ermittler durch einen Effekt aufgehalten wird, legt der Spieler die K
 Falls ein Ermittler verhaftet wird, wird sein Marker in die Gefängniszelle neben dem Polizeirevier platziert. Verhaftete Ermittler verlieren die Hälfte (abgerundet) ihres Geldes und werden aufgehalten.
 
 ####Verloren in Zeit und Raum
-Der Ermittler wird auf das Feld Verloren in Zeit und Raum gestellt. Dieser Ermittler wird aufgehalten und bleibt die restliche Runde auf dem Feld. Zu Beginn der [Unterhaltsphase](phase1.md) kann der Spieler zu **jedem** Standort oder Straßengebiet in Arkham.
+Der Ermittler wird auf das Feld Verloren in Zeit und Raum gestellt. Dieser Ermittler wird aufgehalten und bleibt die **nächste** Runde auf dem Feld. Zu Beginn der [Unterhaltsphase](phase1.md) kann der Spieler zu **jedem** Standort oder Straßengebiet in Arkham.
 
 ####Verschlungene Ermittler
 Sinkt sowohl seine geistige Gesundheit als auch seine Ausdauer auf 0 so wird ein Spieler verschlungen.
@@ -42,12 +42,12 @@ Dies geschieht auch wenn entweder seine geistige Gesundheit oder seine Ausdauer 
 Ein Verschlungener Ermittler verliert alle Karten bis auf nicht ausgegebene Trophäen. Danach zieht er einen neuen Ermittler.
 
 ####Fertigkeiten
-- **Kampf**: Physische Leistung der Kraft und Ausdauer. Ebenfalls für Gefechtsproben. Ebenfalls zum schließen von Portalen nützlich
-- **Wissen**: Mystisches Wissen und mystische Fähigkeiten. Wird genutzt bei Zaubern. Ebenfalls zum schließen von Portalen nützlich
+- **Kampf**: Physische Leistung der Kraft und Ausdauer. Wird genutzt für **Gefechtsproben**. Ebenfalls zum schließen von Portalen nützlich
+- **Wissen**: Mystisches Wissen und mystische Fähigkeiten. Wird genutzt bei **Zaubern**. Ebenfalls zum schließen von Portalen nützlich
 - **Glück**: Die meist genutzte Fertigkeit bei Begegnungen
-- **Schleichen**: Wird genutzt für Verbergen und Diebstähle. Ebenfalls zum ausweichen nützlich
-- **Geschwindigkeit**: Wird genutzt für Prüfungen der Schnelligkeit und Gewandtheit. Gibt die Bewegungsweite an
-- **Wille**: Stärke der Persönlichkeit und Willenskraft. Ebenfalls für Horrorproben wichtig
+- **Schleichen**: Wird genutzt für Verbergen und Diebstähle. Ebenfalls zum **ausweichen** nützlich
+- **Geschwindigkeit**: Wird genutzt für Prüfungen der Schnelligkeit und Gewandtheit. Gibt die **Bewegungsweite** an
+- **Wille**: Stärke der Persönlichkeit und Willenskraft. Ebenfalls für **Horrorproben** wichtig
 
 ####Fertigkeitsproben
 Eine Fertigkeitsprobe berechnet sich aus dem Wert der Fertigkeit und Modifikatoren. Modifikatoren können ein Bonus durch Karten sein oder ein Malus durch Monster, Mythoskarten etc.
