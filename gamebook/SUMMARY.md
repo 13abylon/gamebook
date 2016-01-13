@@ -9,6 +9,7 @@
   *  [Ermittler und der Große Alte](arkham_horror/ermittler.md)
   *  [Monster und Kampf](arkham_horror/monster.md)
   *  [Spielende](arkham_horror/spielende.md)
+  *  [Der Fluch des Schwarzen Pharao](arkham_horror/fluch_des_schwarzen_pharao.md)
 *  [Axis and Allies](aaa/aaa.md)
   *  [1942](aaa/1942/uebersicht.md)
     *  [1942 Einheiten](aaa/1942/einheiten.md)
