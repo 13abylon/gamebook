@@ -1,6 +1,6 @@
 #Shakes and Fidget
 
-In den folgenden Kapiteln gibt es Tipps und Tricks zu Shakes and Fidget.
+In den folgenden Kapiteln gibt es Tipps und Tricks zu [Shakes and Fidget](http://www.sfgame.de/).
 
 <!--
 
