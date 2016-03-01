@@ -9,7 +9,7 @@ Der Spieler hat zwei Möglichkeiten:
 2. Er hat eine Begegnung
 
 ####Begegnung
-Die Karten vom Stadtviertel werden gemischt und eine Karte gezogen. Daraufhin wird der Text auf der Karte abgearbeitet.
+Die Karten vom Stadtviertel werden gemischt und eine Karte wird zufällig gezogen. Daraufhin wird der Text auf der Karte abgearbeitet.
 Monster die durch eine Standortkarte erscheinen verbleiben unabhängig vom Kampf, oder erfolgreichem Ausweichen **nicht** auf dem Spielfeld.
 
 **Wichtig**: Monster und Tore können nicht an versiegelten Orten erscheinend, auch wenn die Karte dies fordert.

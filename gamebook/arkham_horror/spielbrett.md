@@ -18,12 +18,12 @@ Sie können das Geschäft **nicht** mehr betreten.
 ###Schließen und versiegeln von Toren
 Ein Ermittler muss die Andere Welt durchqueren und von dieser wieder nach Arkham kommen. Sobald dies geschieht wird unter den Ermittler ein _Erforscht_-Marker gelegt.
 
-**Wichtig**: Sobald der Ermittler der Ort verlässt wird der _Erforscht_-Marker abgelegt und die Andere Welt muss erneut erforscht werden.
+**Wichtig**: Sobald der Ermittler den Ort verlässt, wird der _Erforscht_-Marker abgelegt und die Andere Welt muss erneut erforscht werden.
 
 ####Tore schließen
-Sobald der Spieler den _Erforscht_-Marker hat kann er das Tor schließen bei dem er sich gerade befindet. Dafür muss der Ermittler eine Probe auf Wissen oder Kampf durchführen unter Berücksichtigung der Modifikatoren.
+Sobald der Spieler den _Erforscht_-Marker hat, kann er das Tor schließen bei dem er sich gerade befindet. Dafür muss der Ermittler eine Probe auf Wissen oder Kampf durchführen, unter Berücksichtigung der Modifikatoren.
 
-Bei einem Erfolg (falls nicht von außen beeinflusst) schließt man das Tor. Daraufhin bekommt man die Tortrophäe.
+Bei einem Erfolg schließt man das Tor. Daraufhin bekommt man die Tortrophäe.
 
 Bei einem Misserfolg bleibt man am Ort und kann in der nächsten Runde erneut versuchen das Tor zu schließen.
 
@@ -36,5 +36,5 @@ Dadurch kann an diesem Ort kein weiteres Tor oder Monster erscheinen.
 Durch die Karte Älteres Zeichen kann man ein Tor sofort verschließen und versiegeln. Dafür ist **keine** Probe notwendig. Daraufhin passiert folgendes:
 
 - Der Ermittler verliert 1 geistige Gesundheit und 1 Ausdauer
-- Der Spieler nimmt ein _Verderber_-Marker vom Großen Alten und dreht ihn auf ein Älteres Zeichen (Chip) um legt ihn auf den Ort
+- Der Spieler nimmt ein _Verderber_-Marker vom Großen Alten und dreht ihn auf ein Älteres Zeichen (Chip) um. Dieser wird auf den Ort gelegt
 - Die Karte Älteres Zeichen wird aus dem Spiel komplett entfernt

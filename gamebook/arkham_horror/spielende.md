@@ -11,10 +11,10 @@ Zwei Bedingungen müssen erfüllt sein:
 2. Die Spieler brauchen mindestens soviele Tortrophäen wie Spieler im Spiel sind
 
 ####Tore versiegeln
-Sind auf dem Spielfeld sechs oder mehr ältere Zeichen haben die Ermittler sofort gewonnen.
+Sind auf dem Spielfeld sechs oder mehr ältere Zeichen, haben die Ermittler sofort gewonnen.
 
 ####Den Großen Alten bannen
-Sobald der [Große Alte erscheint](ermittler.md) müssen die Spielen diesen bannen um zu gewinnen.
+Sobald der [Große Alte erscheint](ermittler.md), müssen die Spielen diesen bannen um zu gewinnen.
 
 ##Niederlage
 Die Spieler verlieren sobald der große Alte erscheint und die Ermittler besiegt werden.
@@ -24,16 +24,10 @@ Der Spieler mit den meisten Tortrophäen erhält den Titel "_Erster Bürger von 
 
 Zusätzlich gibt es noch ein Wertungssystem um den Erfolg zu bewerten:
 
-Level des Großen Alten (Höchste Zahl der Verderbensmarke)
-
+Level des Großen Alten (Höchste Zahl in der Verderbensleiste)
 \- Terror-Level
-
 \- 1 für jede unbezahlte / ausgelassene Bankanleihe
-
 \- 1 für jedes ausgespielte Ältere Zeichen (Karte)
-
 \+ 1 für jede nicht abgegebene Tortrophäe
-
 \+ 1 für je drei vorhandene Monstertrophäen
-
 \+ 1 für jeden nicht verschlungenen Ermittler

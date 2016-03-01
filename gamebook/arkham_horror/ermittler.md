@@ -36,7 +36,7 @@ Falls ein Ermittler verhaftet wird, wird sein Marker in die Gefängniszelle nebe
 Der Ermittler wird auf das Feld Verloren in Zeit und Raum gestellt. Dieser Ermittler wird aufgehalten und bleibt die **nächste** Runde auf dem Feld. Zu Beginn der [Unterhaltsphase](phase1.md) kann der Spieler zu **jedem** Standort oder Straßengebiet in Arkham.
 
 ####Verschlungene Ermittler
-Sinkt sowohl seine geistige Gesundheit als auch seine Ausdauer auf 0 so wird ein Spieler verschlungen.
+Sinkt sowohl seine geistige Gesundheit, als auch seine Ausdauer auf 0, so wird ein Spieler verschlungen.
 Dies geschieht auch wenn entweder seine geistige Gesundheit oder seine Ausdauer mit einem Schlag vom Maximalwert auf 0 fällt.
 
 Ein Verschlungener Ermittler verliert alle Karten bis auf nicht ausgegebene Trophäen. Danach zieht er einen neuen Ermittler.
