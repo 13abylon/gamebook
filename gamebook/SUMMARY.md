@@ -1,5 +1,6 @@
 #Summary
 *  [Arkham Horror](arkham_horror/uebersicht.md)
+  *  [Aufbau](arkham_horror/aufbau.md)
   *  [Phase 1](arkham_horror/phase1.md)
   *  [Phase 2](arkham_horror/phase2.md)
   *  [Phase 3](arkham_horror/phase3.md)
@@ -10,6 +11,8 @@
   *  [Monster und Kampf](arkham_horror/monster.md)
   *  [Spielende](arkham_horror/spielende.md)
   *  [Der Fluch des Schwarzen Pharao](arkham_horror/fluch_des_schwarzen_pharao.md)
+  *  [Das Grauen von Dunwich](arkham_horror/grauen_von_dunwich.md)
+  *  [Der König in Gelb](arkham_horror/koenig_in_gelb.md)
 *  [Axis and Allies](aaa/aaa.md)
   *  [1942](aaa/1942/uebersicht.md)
     *  [1942 Einheiten](aaa/1942/einheiten.md)
