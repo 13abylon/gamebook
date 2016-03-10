@@ -19,6 +19,7 @@
 - [Spielbrett und Gegenstände](spielbrett.md)
 - [Ermittler und der Große Alte](ermittler.md)
 - [Monster und Kampf](monster.md)
+- [FAQ](faq.md)
 
 ##Erweiterungen
 
