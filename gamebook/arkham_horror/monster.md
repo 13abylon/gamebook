@@ -60,9 +60,9 @@ Bei einem Erfolg kann der Ermittler den Zauber benutzen, ansonsten ist der Zaube
 
 ##Spezielle Monsterfähigkeiten
 
-**Hinterhalt**: Sobald ein Kampf gegen das Monster startet, kann der Ermittler _nicht_ mehr fliehen
-**Unendlich**: Das besiegte Monster wird sofort in die Monsterquelle zurückgelegt
-**Physische/Magische Resistenz**: Waffen oder Zauber, die im Kampf benutzt werden, geben nur die Hälfte (abgerundet) des Bonus gegen den resistenten Typ des Monsters
-**Physische/Magische Immunität**: Waffen oder Zauber, die im Kampf benutzt werden, geben keinen Bonus gegen den immunen Typ des Monsters
-**Alptraumhaft X**: Der Ermittler verliert X geistige Gesundheit, auch wenn er die Horrorprobe erfolgreich besteht
-**Überwältigend X**: Der Ermittler verliert X Ausdauer, auch wenn er die Kampfprobe erfolgreich besteht
+- **Hinterhalt**: Sobald ein Kampf gegen das Monster startet, kann der Ermittler _nicht_ mehr fliehen
+- **Unendlich**: Das besiegte Monster wird sofort in die Monsterquelle zurückgelegt
+- **Physische/Magische Resistenz**: Waffen oder Zauber, die im Kampf benutzt werden, geben nur die Hälfte (abgerundet) des Bonus gegen den resistenten Typ des Monsters
+- **Physische/Magische Immunität**: Waffen oder Zauber, die im Kampf benutzt werden, geben keinen Bonus gegen den immunen Typ des Monsters
+- **Alptraumhaft X**: Der Ermittler verliert X geistige Gesundheit, auch wenn er die Horrorprobe erfolgreich besteht
+- **Überwältigend X**: Der Ermittler verliert X Ausdauer, auch wenn er die Kampfprobe erfolgreich besteht

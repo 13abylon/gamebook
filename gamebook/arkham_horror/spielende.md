@@ -25,9 +25,15 @@ Der Spieler mit den meisten Tortrophäen erhält den Titel "_Erster Bürger von 
 Zusätzlich gibt es noch ein Wertungssystem um den Erfolg zu bewerten:
 
 Level des Großen Alten (Höchste Zahl in der Verderbensleiste)
+
 \- Terror-Level
+
 \- 1 für jede unbezahlte / ausgelassene Bankanleihe
+
 \- 1 für jedes ausgespielte Ältere Zeichen (Karte)
+
 \+ 1 für jede nicht abgegebene Tortrophäe
+
 \+ 1 für je drei vorhandene Monstertrophäen
+
 \+ 1 für jeden nicht verschlungenen Ermittler
