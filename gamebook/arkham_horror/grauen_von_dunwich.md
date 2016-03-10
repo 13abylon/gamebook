@@ -64,4 +64,5 @@ Wenn ein Ermittler das _Grauen von Dunwich_ besiegt, darf der Spieler sich eine 
 Es werden zwei Modifikatoren zu der Siegwertung hinzugefügt:
 
 \+ 1 pro Auftrag oder Mission, die während dem Spiel erfüllt wurde
+
 \- 1 pro Ermittler, der in den Ruhestand versetzt wurde

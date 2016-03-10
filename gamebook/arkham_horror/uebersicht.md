@@ -1,7 +1,8 @@
 #Arkham Horror
 
 ##Zusammenfassung
-- Eine schnelle Übersicht gibt es mit dieser [einseitigen PDF](../assets/arkham_horror/overview.pdf)
+- Eine schnelle Übersicht gibt es mit dieser [Grundregel PDF](../assets/arkham_horror/regeln.pdf)
+- Zusätzlich gibt es eine [PDF für die Erweiterungen](../assets/arkham_horror/erweiterungen.pdf)
 
 ##Aufbau, Phasen und Spielende
 
