@@ -28,4 +28,5 @@ summary-check:
 	fi
 
 copy-pdf:
-	cp gamebook/assets/arkham_horror/overview.pdf gh-pages/assets/arkham_horror/
+	cp gamebook/assets/arkham_horror/regeln.pdf gh-pages/assets/arkham_horror/
+	cp gamebook/assets/arkham_horror/erweiterungen.pdf gh-pages/assets/arkham_horror/
