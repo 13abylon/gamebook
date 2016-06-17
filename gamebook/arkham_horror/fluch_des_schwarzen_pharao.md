@@ -1,4 +1,4 @@
-<div class="expansion"> _Erweiterung_ für Arkham Horror</div>
+<div class="expansion">Erste _Erweiterung_ für Arkham Horror</div>
 # Der Fluch des Schwarzen Pharao
 
 Hierbei handelt es sich um eine Erweiterung zum Spiel Arkham Horror. Alle neuen Karten sind mit einem kleinen ägyptischen Augensymbol markiert.

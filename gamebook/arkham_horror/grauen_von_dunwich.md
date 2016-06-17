@@ -1,4 +1,4 @@
-<div class="expansion"> _Erweiterung_ für Arkham Horror</div>
+<div class="expansion"> Zweite _Erweiterung_ für Arkham Horror</div>
 # Das Grauen von Dunwich
 
 Bei Das Grauen von Dunwich handelt es sich um die zweite Erweiterung zu Arkham Horror. Alle neuen Karten sind mit einer kleinen Scheune markiert. Alle neuen Karten, Tormarker und Monstermarker werden in das Grundspiel hinzu gemischt.
