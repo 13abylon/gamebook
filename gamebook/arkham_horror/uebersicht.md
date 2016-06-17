@@ -27,3 +27,9 @@
 - [Das Grauen von Dunwich](grauen_von_dunwich.md)
 - [Der König in Gelb](koenig_in_gelb.md)
 - [Kingsport Horror](kingsport.md)
+
+####Mehrere Erweiterungen kombinieren
+Es ist möglich mehrere Erweiterungen untereinander zu kombinieren. Folgende Regeln müssen dafür beachtet werden:
+- Es dürfen nur elf Verbündete im Spiel sein. Dazu werden alle Verbündeten die ein Ermittler bekommt rausgesucht, danach zufällig die restlichen Verbündeten gezogen, bis insgesamt elf im Spiel sind
+- Die Reihenfolge der zusätzlichen Spielbretter ist beliebig und kann von den Spielern selber ausgesucht werden
+- Sobald zwei oder mehr Stadterweiterungen (Erweiterungen mit neuem Spielbrett) benutzt werden, werden die Regeln so ausgelegt, als wäre ein Spieler weniger im Spiel. Damit ist es leichter für die Spieler, da größere Entfernungen zurückgelegt werden müssen
