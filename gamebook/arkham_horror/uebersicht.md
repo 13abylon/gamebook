@@ -26,3 +26,4 @@
 - [Der Fluch des Schwarzen Pharao](fluch_des_schwarzen_pharao.md)
 - [Das Grauen von Dunwich](grauen_von_dunwich.md)
 - [Der König in Gelb](koenig_in_gelb.md)
+- [Kingsport Horror](kingsport.md)

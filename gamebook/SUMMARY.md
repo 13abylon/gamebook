@@ -13,6 +13,7 @@
   *  [Der Fluch des Schwarzen Pharao](arkham_horror/fluch_des_schwarzen_pharao.md)
   *  [Das Grauen von Dunwich](arkham_horror/grauen_von_dunwich.md)
   *  [Der König in Gelb](arkham_horror/koenig_in_gelb.md)
+  *  [Kingsport Horror](arkham_horror/kingsport.md)
   *  [FAQ](arkham_horror/faq.md)
 *  [Axis and Allies](aaa/aaa.md)
   *  [1942](aaa/1942/uebersicht.md)
