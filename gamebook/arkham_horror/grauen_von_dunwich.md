@@ -28,7 +28,7 @@ Eine Reise zwischen den Städten Arkham und Dunwich ist über den jeweiligen Bah
 ####Aufträge und Missionen
 Aufträge sind im Stapel der einfachen Gegenstände, Missionen im Stapel der besonderen. Auf den jeweiligen Texten ist eine Anzahl an Standorten beschrieben, die in der Reihenfolge abgearbeitet werden müssen. Für jeden Standort den man besucht, wird ein Hinweismarker zur Übersicht auf die Karte gelegt. In welchem Zeitraum man die Karte abhandelt ist jedem selber überlassen.
 
-####Dimensionsriß
+####Dimensionsrisse
 Es gibt Mythoskarten, bei denen der Standort rot gekennzeichnet ist. Bei diesen handelt es sich um Dimensionsrisse. Diese Mythoskarten werden wie wie normale Mythoskarten abgehandelt, es sei denn der Ort ist versiegelt. In diesem Fall wird der Marker entfernt und ein Tor öffnet sich mitsamt Monstern. Allerdings wird _kein_ neuer Verderbenmarker auf die Verderbenleiste des Großen Alten gelegt.
 
 ####Invalidität und Geistesstörung
